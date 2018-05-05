@@ -1,0 +1,393 @@
+2018-04-20 14:57:01,003 - run - INFO - starting FTP server on 127.0.0.1:9999
+2018-04-20 17:58:42,493 - run - INFO - ['alex', 'egon']
+2018-04-20 17:58:42,493 - run - INFO - starting FTP server on 127.0.0.1:9999
+2018-04-20 17:59:48,598 - run - INFO - got a new connection from ('127.0.0.1', 49879)
+2018-04-20 17:59:51,746 - run - INFO - handle with user auth,data: {'action_type': 'auth', 'username': 'alex', 'password': 'alex'}
+2018-04-20 17:59:51,747 - run - INFO - alex needs to pass authentication
+2018-04-20 17:59:51,747 - run - INFO - alex passed authentication
+2018-04-20 17:59:51,747 - run - INFO - alex Passed authentication!
+2018-04-20 17:59:51,748 - run - INFO - pack data send to ('127.0.0.1', 49879)
+2018-04-20 18:00:04,724 - run - INFO - pack data send to ('127.0.0.1', 49879)
+2018-04-20 18:00:04,724 - run - INFO - ls command result: b'__init__.py\ntest\ntest.mp4\n'
+2018-04-21 10:01:08,665 - run - INFO - pack data send to ('127.0.0.1', 49879)
+2018-04-21 10:01:08,666 - run - INFO - ls command result: b'__init__.py\ntest\ntest.mp4\n'
+2018-04-21 10:01:10,379 - run - ERROR - connection ('127.0.0.1', 49879) is lost....
+2018-04-21 10:10:22,736 - run - INFO - got a new connection from ('127.0.0.1', 51896)
+2018-04-21 10:10:25,351 - run - INFO - handle with user auth,data: {'action_type': 'auth', 'username': 'alex', 'password': 'alex'}
+2018-04-21 10:10:25,354 - run - INFO - alex needs to pass authentication
+2018-04-21 10:10:25,354 - run - INFO - alex passed authentication
+2018-04-21 10:10:25,355 - run - INFO - alex Passed authentication!
+2018-04-21 10:10:25,355 - run - INFO - pack data send to ('127.0.0.1', 51896)
+2018-04-21 10:10:26,903 - run - INFO - pack data send to ('127.0.0.1', 51896)
+2018-04-21 10:10:26,904 - run - INFO - ls command result: b'__init__.py\ntest\ntest.mp4\n'
+2018-04-21 10:10:29,876 - run - INFO - pack data send to ('127.0.0.1', 51896)
+2018-04-21 10:10:29,877 - run - INFO - ls command result: b'__init__.py\ntest\ntest.mp4\n'
+2018-04-21 10:10:35,013 - run - INFO - pack data send to ('127.0.0.1', 51896)
+2018-04-21 10:10:35,013 - run - INFO - Dir changed!
+2018-04-21 10:10:37,465 - run - INFO - pack data send to ('127.0.0.1', 51896)
+2018-04-21 10:10:37,466 - run - INFO - ls command result: b'__init__.py\n'
+2018-04-21 10:10:42,367 - run - INFO - pack data send to ('127.0.0.1', 51896)
+2018-04-21 10:10:42,370 - run - INFO - ls command result: b'__init__.py\n'
+2018-04-21 10:34:52,720 - run - INFO - ['alex', 'egon']
+2018-04-21 10:34:52,721 - run - INFO - starting FTP server on 127.0.0.1:9999
+2018-04-21 10:34:58,065 - run - INFO - got a new connection from ('127.0.0.1', 51919)
+2018-04-21 10:35:01,228 - run - INFO - handle with user auth,data: {'action_type': 'auth', 'username': 'alex', 'password': 'alex'}
+2018-04-21 10:35:01,229 - run - INFO - alex needs to pass authentication
+2018-04-21 10:35:01,229 - run - INFO - alex passed authentication
+2018-04-21 10:35:01,229 - run - INFO - alex Passed authentication!
+2018-04-21 10:35:01,229 - run - INFO - pack data send to ('127.0.0.1', 51919)
+2018-04-21 10:35:03,410 - run - INFO - pack data send to ('127.0.0.1', 51919)
+2018-04-21 10:35:03,410 - run - INFO - ls command result: b'__init__.py\ntest\ntest.mp4\n'
+2018-04-21 10:35:07,991 - run - INFO - pack data send to ('127.0.0.1', 51919)
+2018-04-21 10:35:07,998 - run - ERROR - connection ('127.0.0.1', 51919) is lost....
+2018-04-21 10:37:10,256 - run - INFO - got a new connection from ('127.0.0.1', 51921)
+2018-04-21 10:37:13,874 - run - INFO - handle with user auth,data: {'action_type': 'auth', 'username': 'alex', 'password': 'alex'}
+2018-04-21 10:37:13,874 - run - INFO - alex needs to pass authentication
+2018-04-21 10:37:13,875 - run - INFO - alex passed authentication
+2018-04-21 10:37:13,875 - run - INFO - alex Passed authentication!
+2018-04-21 10:37:13,875 - run - INFO - pack data send to ('127.0.0.1', 51921)
+2018-04-21 10:37:15,416 - run - INFO - pack data send to ('127.0.0.1', 51921)
+2018-04-21 10:52:45,933 - run - INFO - ['alex', 'egon']
+2018-04-21 10:52:45,934 - run - INFO - starting FTP server on 127.0.0.1:9999
+2018-04-21 10:52:52,403 - run - INFO - got a new connection from ('127.0.0.1', 51944)
+2018-04-21 10:52:56,062 - run - INFO - handle with user auth,data: {'action_type': 'auth', 'username': 'alex', 'password': 'alex'}
+2018-04-21 10:52:56,062 - run - INFO - alex needs to pass authentication
+2018-04-21 10:52:56,062 - run - INFO - alex passed authentication
+2018-04-21 10:52:56,063 - run - INFO - alex Passed authentication!
+2018-04-21 10:52:56,063 - run - INFO - pack data send to ('127.0.0.1', 51944)
+2018-04-21 10:53:01,075 - run - INFO - pack data send to ('127.0.0.1', 51944)
+2018-04-21 10:56:41,555 - run - INFO - ['alex', 'egon']
+2018-04-21 10:56:41,555 - run - INFO - starting FTP server on 127.0.0.1:9999
+2018-04-21 10:56:45,569 - run - INFO - got a new connection from ('127.0.0.1', 51948)
+2018-04-21 10:56:49,326 - run - INFO - handle with user auth,data: {'action_type': 'auth', 'username': 'alex', 'password': 'alex'}
+2018-04-21 10:56:49,326 - run - INFO - alex needs to pass authentication
+2018-04-21 10:56:49,326 - run - INFO - alex passed authentication
+2018-04-21 10:56:49,327 - run - INFO - alex Passed authentication!
+2018-04-21 10:56:49,327 - run - INFO - pack data send to ('127.0.0.1', 51948)
+2018-04-21 11:03:04,357 - run - INFO - ['alex', 'egon']
+2018-04-21 11:03:04,358 - run - INFO - starting FTP server on 127.0.0.1:9999
+2018-04-21 11:03:16,930 - run - INFO - ['alex', 'egon']
+2018-04-21 11:03:16,930 - run - INFO - starting FTP server on 127.0.0.1:9999
+2018-04-21 11:03:22,005 - run - INFO - got a new connection from ('127.0.0.1', 51955)
+2018-04-21 11:03:25,553 - run - INFO - handle with user auth,data: {'action_type': 'auth', 'username': 'alex', 'password': 'alex'}
+2018-04-21 11:03:25,553 - run - INFO - alex needs to pass authentication
+2018-04-21 11:03:25,553 - run - INFO - alex passed authentication
+2018-04-21 11:03:25,554 - run - INFO - alex Passed authentication!
+2018-04-21 11:03:25,554 - run - INFO - pack data send to ('127.0.0.1', 51955)
+2018-04-21 11:03:31,020 - run - INFO - pack data send to ('127.0.0.1', 51955)
+2018-04-21 11:05:19,456 - run - INFO - ['alex', 'egon']
+2018-04-21 11:05:19,456 - run - INFO - starting FTP server on 127.0.0.1:9999
+2018-04-21 11:05:23,895 - run - INFO - got a new connection from ('127.0.0.1', 51960)
+2018-04-21 11:05:27,388 - run - INFO - handle with user auth,data: {'action_type': 'auth', 'username': 'alex', 'password': 'alex'}
+2018-04-21 11:05:27,388 - run - INFO - alex needs to pass authentication
+2018-04-21 11:05:27,388 - run - INFO - alex passed authentication
+2018-04-21 11:05:27,388 - run - INFO - alex Passed authentication!
+2018-04-21 11:05:27,389 - run - INFO - pack data send to ('127.0.0.1', 51960)
+2018-04-21 11:06:39,267 - run - INFO - ['alex', 'egon']
+2018-04-21 11:06:39,267 - run - INFO - starting FTP server on 127.0.0.1:9999
+2018-04-21 11:06:43,410 - run - INFO - got a new connection from ('127.0.0.1', 51962)
+2018-04-21 11:06:47,021 - run - INFO - handle with user auth,data: {'action_type': 'auth', 'username': 'alex', 'password': 'alex'}
+2018-04-21 11:06:47,021 - run - INFO - alex needs to pass authentication
+2018-04-21 11:06:47,021 - run - INFO - alex passed authentication
+2018-04-21 11:06:47,021 - run - INFO - alex Passed authentication!
+2018-04-21 11:06:47,021 - run - INFO - pack data send to ('127.0.0.1', 51962)
+2018-04-21 11:06:48,997 - run - INFO - pack data send to ('127.0.0.1', 51962)
+2018-04-21 11:07:22,997 - run - ERROR - connection ('127.0.0.1', 51962) is lost....
+2018-04-21 14:43:53,943 - run - INFO - ['alex', 'egon']
+2018-04-21 14:43:53,943 - run - INFO - starting FTP server on 127.0.0.1:9999
+2018-04-21 14:43:56,353 - run - INFO - got a new connection from ('127.0.0.1', 51991)
+2018-04-21 14:43:59,073 - run - INFO - handle with user auth,data: {'action_type': 'auth', 'username': 'alex', 'password': 'alex'}
+2018-04-21 14:43:59,073 - run - INFO - alex needs to pass authentication
+2018-04-21 14:43:59,074 - run - INFO - alex passed authentication
+2018-04-21 14:43:59,074 - run - INFO - alex Passed authentication!
+2018-04-21 14:43:59,074 - run - INFO - pack data send to ('127.0.0.1', 51991)
+2018-04-21 14:44:50,962 - run - INFO - ['alex', 'egon']
+2018-04-21 14:44:50,962 - run - INFO - starting FTP server on 127.0.0.1:9999
+2018-04-21 14:44:54,216 - run - INFO - got a new connection from ('127.0.0.1', 51992)
+2018-04-21 14:44:57,511 - run - INFO - handle with user auth,data: {'action_type': 'auth', 'username': 'alex', 'password': 'alex'}
+2018-04-21 14:44:57,511 - run - INFO - alex needs to pass authentication
+2018-04-21 14:44:57,511 - run - INFO - alex passed authentication
+2018-04-21 14:44:57,512 - run - INFO - alex Passed authentication!
+2018-04-21 14:44:57,512 - run - INFO - pack data send to ('127.0.0.1', 51992)
+2018-04-21 14:44:58,938 - run - INFO - pack data send to ('127.0.0.1', 51992)
+2018-04-21 14:45:02,894 - run - INFO - pack data send to ('127.0.0.1', 51992)
+2018-04-21 14:45:02,894 - run - INFO - ls command result: b'__init__.py\ntest\ntest.mp4\n'
+2018-04-21 14:45:07,111 - run - INFO - pack data send to ('127.0.0.1', 51992)
+2018-04-21 14:45:07,112 - run - INFO - Dir changed!
+2018-04-21 14:45:09,957 - run - INFO - pack data send to ('127.0.0.1', 51992)
+2018-04-21 14:45:15,984 - run - ERROR - connection ('127.0.0.1', 51992) is lost....
+2018-04-21 14:48:38,683 - run - INFO - ['alex', 'egon']
+2018-04-21 14:48:38,683 - run - INFO - starting FTP server on 127.0.0.1:9999
+2018-04-21 14:48:42,803 - run - INFO - got a new connection from ('127.0.0.1', 51996)
+2018-04-21 14:48:47,717 - run - INFO - handle with user auth,data: {'action_type': 'auth', 'username': 'laex', 'password': ''}
+2018-04-21 14:48:47,717 - run - ERROR - 无此用户 laex
+2018-04-21 14:48:47,717 - run - ERROR - laex auth failed
+2018-04-21 14:48:47,718 - run - INFO - pack data send to ('127.0.0.1', 51996)
+2018-04-21 14:48:50,150 - run - INFO - handle with user auth,data: {'action_type': 'auth', 'username': 'alex', 'password': 'alex'}
+2018-04-21 14:48:50,151 - run - INFO - alex needs to pass authentication
+2018-04-21 14:48:50,151 - run - INFO - alex passed authentication
+2018-04-21 14:48:50,152 - run - INFO - alex Passed authentication!
+2018-04-21 14:48:50,153 - run - INFO - pack data send to ('127.0.0.1', 51996)
+2018-04-21 14:48:51,498 - run - INFO - pack data send to ('127.0.0.1', 51996)
+2018-04-21 14:49:05,320 - run - INFO - pack data send to ('127.0.0.1', 51996)
+2018-04-21 14:49:05,320 - run - INFO - ls command result: b'__init__.py\ntest\ntest.mp4\n'
+2018-04-21 14:49:09,442 - run - INFO - pack data send to ('127.0.0.1', 51996)
+2018-04-21 14:49:09,443 - run - WARNING - 351: Dir does't exist!
+2018-04-21 14:49:10,618 - run - INFO - pack data send to ('127.0.0.1', 51996)
+2018-04-21 14:49:10,618 - run - INFO - ls command result: b'__init__.py\ntest\ntest.mp4\n'
+2018-04-21 14:50:45,998 - run - INFO - ['alex', 'egon']
+2018-04-21 14:50:45,998 - run - INFO - starting FTP server on 127.0.0.1:9999
+2018-04-21 14:50:51,711 - run - INFO - got a new connection from ('127.0.0.1', 51999)
+2018-04-21 14:50:55,301 - run - INFO - handle with user auth,data: {'action_type': 'auth', 'username': 'alex', 'password': 'alex'}
+2018-04-21 14:50:55,303 - run - INFO - alex needs to pass authentication
+2018-04-21 14:50:55,304 - run - INFO - alex passed authentication
+2018-04-21 14:50:55,304 - run - INFO - alex Passed authentication!
+2018-04-21 14:50:55,304 - run - INFO - pack data send to ('127.0.0.1', 51999)
+2018-04-21 14:50:56,275 - run - INFO - pack data send to ('127.0.0.1', 51999)
+2018-04-21 14:50:58,943 - run - INFO - pack data send to ('127.0.0.1', 51999)
+2018-04-21 14:50:58,943 - run - INFO - ls command result: b'__init__.py\ntest\ntest.mp4\n'
+2018-04-21 14:51:00,486 - run - INFO - pack data send to ('127.0.0.1', 51999)
+2018-04-21 14:51:00,487 - run - INFO - Dir changed!
+2018-04-21 14:51:01,505 - run - INFO - pack data send to ('127.0.0.1', 51999)
+2018-04-21 14:51:12,976 - run - ERROR - connection ('127.0.0.1', 51999) is lost....
+2018-04-21 15:12:12,490 - run - INFO - ['alex', 'egon']
+2018-04-21 15:12:12,490 - run - INFO - starting FTP server on 127.0.0.1:9999
+2018-04-21 15:12:19,766 - run - INFO - got a new connection from ('127.0.0.1', 52022)
+2018-04-21 15:12:22,580 - run - INFO - handle with user auth,data: {'action_type': 'auth', 'username': 'alex', 'password': 'alex'}
+2018-04-21 15:12:22,580 - run - INFO - alex needs to pass authentication
+2018-04-21 15:12:22,580 - run - INFO - alex passed authentication
+2018-04-21 15:12:22,580 - run - INFO - alex Passed authentication!
+2018-04-21 15:12:22,581 - run - INFO - pack data send to ('127.0.0.1', 52022)
+2018-04-21 15:12:23,791 - run - INFO - pack data send to ('127.0.0.1', 52022)
+2018-04-21 15:12:23,793 - run - INFO - ls command result: b'__init__.py\ntest\ntest.mp4\n'
+2018-04-21 15:12:27,439 - run - INFO - pack data send to ('127.0.0.1', 52022)
+2018-04-21 15:12:31,021 - run - INFO - pack data send to ('127.0.0.1', 52022)
+2018-04-21 15:12:31,021 - run - INFO - ls command result: b'__init__.py\ntest\ntest.mp4\n'
+2018-04-21 15:12:48,383 - run - ERROR - connection ('127.0.0.1', 52022) is lost....
+2018-04-21 15:13:50,974 - run - INFO - ['alex', 'egon']
+2018-04-21 15:13:50,974 - run - INFO - starting FTP server on 127.0.0.1:9999
+2018-04-21 15:13:58,533 - run - INFO - got a new connection from ('127.0.0.1', 52026)
+2018-04-21 15:14:00,992 - run - INFO - handle with user auth,data: {'action_type': 'auth', 'username': 'alex', 'password': 'alex'}
+2018-04-21 15:14:00,993 - run - INFO - alex needs to pass authentication
+2018-04-21 15:14:00,993 - run - INFO - alex passed authentication
+2018-04-21 15:14:00,994 - run - INFO - alex Passed authentication!
+2018-04-21 15:14:00,994 - run - INFO - pack data send to ('127.0.0.1', 52026)
+2018-04-21 15:14:01,789 - run - INFO - pack data send to ('127.0.0.1', 52026)
+2018-04-21 15:14:01,789 - run - INFO - ls command result: b'__init__.py\ntest\ntest.mp4\n'
+2018-04-21 15:14:04,496 - run - INFO - pack data send to ('127.0.0.1', 52026)
+2018-04-21 15:14:05,723 - run - INFO - pack data send to ('127.0.0.1', 52026)
+2018-04-21 15:14:05,723 - run - INFO - ls command result: b'__init__.py\nss\ntest\ntest.mp4\n'
+2018-04-21 15:14:09,658 - run - INFO - pack data send to ('127.0.0.1', 52026)
+2018-04-21 15:14:09,658 - run - INFO - Dir changed!
+2018-04-21 15:14:10,534 - run - INFO - pack data send to ('127.0.0.1', 52026)
+2018-04-21 15:14:10,534 - run - INFO - ls command result: b'current dir has no file at all'
+2018-04-21 15:14:18,926 - run - INFO - pack data send to ('127.0.0.1', 52026)
+2018-04-21 15:14:18,927 - run - INFO - Dir changed!
+2018-04-21 15:14:19,489 - run - INFO - pack data send to ('127.0.0.1', 52026)
+2018-04-21 15:14:19,490 - run - INFO - ls command result: b'__init__.py\nss\ntest\ntest.mp4\n'
+2018-04-21 15:14:25,686 - run - INFO - pack data send to ('127.0.0.1', 52026)
+2018-04-21 15:14:25,686 - run - INFO - ls command result: b'__init__.py\nss\ntest\ntest.mp4\n'
+2018-04-21 15:14:27,624 - run - INFO - pack data send to ('127.0.0.1', 52026)
+2018-04-21 15:14:27,624 - run - INFO - Dir changed!
+2018-04-21 15:14:28,274 - run - INFO - pack data send to ('127.0.0.1', 52026)
+2018-04-21 15:14:28,275 - run - INFO - ls command result: b'current dir has no file at all'
+2018-04-21 15:14:30,072 - run - INFO - pack data send to ('127.0.0.1', 52026)
+2018-04-21 15:14:30,072 - run - INFO - Dir changed!
+2018-04-21 15:14:30,551 - run - INFO - pack data send to ('127.0.0.1', 52026)
+2018-04-21 15:14:30,551 - run - INFO - ls command result: b'__init__.py\nss\ntest\ntest.mp4\n'
+2018-04-21 15:14:43,343 - run - ERROR - connection ('127.0.0.1', 52026) is lost....
+2018-04-21 15:25:17,245 - run - INFO - ['alex', 'egon']
+2018-04-21 15:25:17,249 - run - INFO - starting FTP server on 127.0.0.1:9999
+2018-04-21 15:25:20,965 - run - INFO - got a new connection from ('127.0.0.1', 52038)
+2018-04-21 15:25:23,385 - run - INFO - handle with user auth,data: {'action_type': 'auth', 'username': 'alex', 'password': 'alex'}
+2018-04-21 15:25:23,398 - run - INFO - alex needs to pass authentication
+2018-04-21 15:25:23,399 - run - INFO - alex passed authentication
+2018-04-21 15:25:23,399 - run - INFO - alex Passed authentication!
+2018-04-21 15:25:23,399 - run - INFO - pack data send to ('127.0.0.1', 52038)
+2018-04-21 15:25:24,774 - run - INFO - pack data send to ('127.0.0.1', 52038)
+2018-04-21 15:25:24,774 - run - INFO - ls command result: b'__init__.py\nss\ntest\ntest.mp4\n'
+2018-04-21 15:25:27,683 - run - INFO - pack data send to ('127.0.0.1', 52038)
+2018-04-21 15:25:28,924 - run - INFO - pack data send to ('127.0.0.1', 52038)
+2018-04-21 15:25:28,924 - run - INFO - ls command result: b'__init__.py\nss\ntest\ntest.mp4\n'
+2018-04-21 15:25:31,211 - run - INFO - pack data send to ('127.0.0.1', 52038)
+2018-04-21 15:25:31,212 - run - WARNING - 351: Dir does't exist!
+2018-04-21 15:25:31,945 - run - INFO - pack data send to ('127.0.0.1', 52038)
+2018-04-21 15:25:31,945 - run - INFO - ls command result: b'__init__.py\nss\ntest\ntest.mp4\n'
+2018-04-21 15:25:40,530 - run - INFO - pack data send to ('127.0.0.1', 52038)
+2018-04-21 15:25:40,530 - run - INFO - ls command result: b'__init__.py\nss\ntest\ntest.mp4\n'
+2018-04-21 15:25:41,285 - run - INFO - pack data send to ('127.0.0.1', 52038)
+2018-04-21 15:25:52,061 - run - INFO - pack data send to ('127.0.0.1', 52038)
+2018-04-21 15:25:52,062 - run - INFO - ls command result: b'__init__.py\nss\ntest\ntest.mp4\n'
+2018-04-21 15:25:54,657 - run - INFO - pack data send to ('127.0.0.1', 52038)
+2018-04-21 15:25:54,660 - run - INFO - ls command result: b'__init__.py\nss\ntest\ntest.mp4\n'
+2018-04-21 15:25:56,304 - run - INFO - pack data send to ('127.0.0.1', 52038)
+2018-04-21 15:25:57,134 - run - INFO - pack data send to ('127.0.0.1', 52038)
+2018-04-21 15:25:57,134 - run - INFO - ls command result: b'__init__.py\nss\ntest\ntest.mp4\n'
+2018-04-21 15:26:06,672 - run - INFO - pack data send to ('127.0.0.1', 52038)
+2018-04-21 15:26:07,687 - run - INFO - pack data send to ('127.0.0.1', 52038)
+2018-04-21 15:26:07,688 - run - INFO - ls command result: b'__init__.py\nss\ntest\ntest.mp4\n'
+2018-04-21 15:26:34,312 - run - INFO - pack data send to ('127.0.0.1', 52038)
+2018-04-21 15:29:41,934 - run - INFO - ['alex', 'egon']
+2018-04-21 15:29:41,934 - run - INFO - starting FTP server on 127.0.0.1:9999
+2018-04-21 15:29:47,074 - run - INFO - got a new connection from ('127.0.0.1', 52042)
+2018-04-21 15:29:49,272 - run - INFO - handle with user auth,data: {'action_type': 'auth', 'username': 'alex', 'password': 'alex'}
+2018-04-21 15:29:49,272 - run - INFO - alex needs to pass authentication
+2018-04-21 15:29:49,273 - run - INFO - alex passed authentication
+2018-04-21 15:29:49,273 - run - INFO - alex Passed authentication!
+2018-04-21 15:29:49,273 - run - INFO - pack data send to ('127.0.0.1', 52042)
+2018-04-21 15:29:49,902 - run - INFO - pack data send to ('127.0.0.1', 52042)
+2018-04-21 15:29:49,903 - run - INFO - ls command result: b'__init__.py\nss\ntest\ntest.mp4\n'
+2018-04-21 15:29:52,099 - run - INFO - pack data send to ('127.0.0.1', 52042)
+2018-04-21 15:29:52,934 - run - INFO - pack data send to ('127.0.0.1', 52042)
+2018-04-21 15:29:52,937 - run - INFO - ls command result: b'__init__.py\ntest\ntest.mp4\n'
+2018-04-21 15:29:54,375 - run - INFO - pack data send to ('127.0.0.1', 52042)
+2018-04-21 15:29:54,375 - run - WARNING - 351: Dir does't exist!
+2018-04-21 15:29:56,564 - run - INFO - pack data send to ('127.0.0.1', 52042)
+2018-04-21 15:29:56,565 - run - INFO - ls command result: b'__init__.py\ntest\ntest.mp4\n'
+2018-04-21 15:30:01,026 - run - ERROR - connection ('127.0.0.1', 52042) is lost....
+2018-05-05 21:03:33,390 - run - INFO - ['alex', 'egon']
+2018-05-05 21:03:33,390 - run - INFO - starting FTP server on 127.0.0.1:9999
+2018-05-05 21:07:08,280 - run - INFO - got a new connection from ('127.0.0.1', 49468)
+2018-05-05 21:07:17,520 - run - INFO - handle with user auth,data: {'action_type': 'auth', 'username': 'alex', 'password': 'alex'}
+2018-05-05 21:07:17,521 - run - INFO - alex needs to pass authentication
+2018-05-05 21:07:17,521 - run - INFO - alex passed authentication
+2018-05-05 21:07:17,521 - run - INFO - alex Passed authentication!
+2018-05-05 21:07:17,521 - run - INFO - pack data send to ('127.0.0.1', 49468)
+2018-05-05 21:08:32,990 - run - INFO - got a new connection from ('127.0.0.1', 49583)
+2018-05-05 21:08:38,568 - run - INFO - handle with user auth,data: {'action_type': 'auth', 'username': 'hqs', 'password': 'hqs'}
+2018-05-05 21:08:38,569 - run - ERROR - 无此用户 hqs
+2018-05-05 21:08:38,570 - run - ERROR - hqs auth failed
+2018-05-05 21:08:38,570 - run - INFO - pack data send to ('127.0.0.1', 49583)
+2018-05-05 21:09:12,105 - run - INFO - handle with user auth,data: {'action_type': 'auth', 'username': 'egon', 'password': 'dddd'}
+2018-05-05 21:09:12,106 - run - INFO - egon needs to pass authentication
+2018-05-05 21:09:12,106 - run - ERROR - egon 有此用户，密码不正确
+2018-05-05 21:09:12,106 - run - ERROR - egon auth failed
+2018-05-05 21:09:12,107 - run - INFO - pack data send to ('127.0.0.1', 49583)
+2018-05-05 21:09:57,277 - run - INFO - handle with user auth,data: {'action_type': 'auth', 'username': 'hqs', 'password': 'hqs'}
+2018-05-05 21:09:57,278 - run - ERROR - 无此用户 hqs
+2018-05-05 21:09:57,278 - run - ERROR - hqs auth failed
+2018-05-05 21:09:57,279 - run - INFO - pack data send to ('127.0.0.1', 49583)
+2018-05-05 21:09:57,303 - run - ERROR - connection ('127.0.0.1', 49583) is lost....
+2018-05-05 21:10:10,173 - run - INFO - got a new connection from ('127.0.0.1', 49732)
+2018-05-05 21:10:12,527 - run - INFO - handle with user auth,data: {'action_type': 'auth', 'username': 'hqs', 'password': 'hqs'}
+2018-05-05 21:10:12,527 - run - ERROR - 无此用户 hqs
+2018-05-05 21:10:12,527 - run - ERROR - hqs auth failed
+2018-05-05 21:10:12,527 - run - INFO - pack data send to ('127.0.0.1', 49732)
+2018-05-05 21:17:20,295 - run - INFO - ['alex', 'egon', 'hqs', 'zuse']
+2018-05-05 21:17:20,296 - run - INFO - starting FTP server on 127.0.0.1:9999
+2018-05-05 21:18:15,220 - run - INFO - got a new connection from ('127.0.0.1', 50472)
+2018-05-05 21:18:19,392 - run - INFO - got a new connection from ('127.0.0.1', 50476)
+2018-05-05 21:18:22,250 - run - INFO - got a new connection from ('127.0.0.1', 50479)
+2018-05-05 21:18:24,780 - run - INFO - got a new connection from ('127.0.0.1', 50485)
+2018-05-05 21:18:33,228 - run - INFO - handle with user auth,data: {'action_type': 'auth', 'username': 'hqs', 'password': 'hqs'}
+2018-05-05 21:18:33,228 - run - INFO - hqs needs to pass authentication
+2018-05-05 21:18:33,228 - run - INFO - hqs passed authentication
+2018-05-05 21:18:33,228 - run - INFO - hqs Passed authentication!
+2018-05-05 21:18:33,228 - run - INFO - pack data send to ('127.0.0.1', 50485)
+2018-05-05 21:19:37,639 - run - INFO - handle with user auth,data: {'action_type': 'auth', 'username': 'alex', 'password': 'alex'}
+2018-05-05 21:19:37,640 - run - INFO - alex needs to pass authentication
+2018-05-05 21:19:37,640 - run - INFO - alex passed authentication
+2018-05-05 21:19:37,641 - run - INFO - alex Passed authentication!
+2018-05-05 21:19:37,641 - run - INFO - pack data send to ('127.0.0.1', 50485)
+2018-05-05 21:22:01,729 - run - INFO - handle with user auth,data: {'action_type': 'auth', 'username': 'alex', 'password': 'alex'}
+2018-05-05 21:22:01,729 - run - INFO - alex needs to pass authentication
+2018-05-05 21:22:01,730 - run - INFO - alex passed authentication
+2018-05-05 21:22:01,730 - run - INFO - alex Passed authentication!
+2018-05-05 21:22:01,730 - run - INFO - pack data send to ('127.0.0.1', 50485)
+2018-05-05 21:22:07,212 - run - INFO - handle with user auth,data: {'action_type': 'auth', 'username': 'alex', 'password': 'alex'}
+2018-05-05 21:22:07,213 - run - INFO - alex needs to pass authentication
+2018-05-05 21:22:07,213 - run - INFO - alex passed authentication
+2018-05-05 21:22:07,213 - run - INFO - alex Passed authentication!
+2018-05-05 21:22:07,213 - run - INFO - pack data send to ('127.0.0.1', 50485)
+2018-05-05 21:22:15,469 - run - INFO - pack data send to ('127.0.0.1', 50485)
+2018-05-05 21:22:15,469 - run - INFO - ls command result: b'__init__.py\ntest\n'
+2018-05-05 21:23:38,981 - run - ERROR - connection ('127.0.0.1', 50485) is lost....
+2018-05-05 21:23:38,981 - run - ERROR - connection ('127.0.0.1', 50485) is lost....
+2018-05-05 21:23:38,982 - run - ERROR - connection ('127.0.0.1', 50485) is lost....
+2018-05-05 21:23:38,984 - run - INFO - got a new connection from ('127.0.0.1', 50555)
+2018-05-05 22:01:24,766 - run - INFO - ['alex', 'egon', 'hqs', 'zuse']
+2018-05-05 22:01:24,767 - run - INFO - starting FTP server on 127.0.0.1:9999
+2018-05-05 22:01:34,300 - run - INFO - got a new connection from ('127.0.0.1', 54880)
+2018-05-05 22:01:42,221 - run - INFO - handle with user auth,data: {'action_type': 'auth', 'username': 'alex', 'password': 'alex'}
+2018-05-05 22:01:42,222 - run - INFO - alex needs to pass authentication
+2018-05-05 22:01:42,222 - run - INFO - alex passed authentication
+2018-05-05 22:01:42,222 - run - INFO - alex Passed authentication!
+2018-05-05 22:01:42,222 - run - INFO - pack data send to ('127.0.0.1', 54880)
+2018-05-05 22:01:44,019 - run - INFO - pack data send to ('127.0.0.1', 54880)
+2018-05-05 22:01:44,019 - run - INFO - ls command result: b'__init__.py\ntest\n'
+2018-05-05 22:01:48,663 - run - INFO - got a new connection from ('127.0.0.1', 54895)
+2018-05-05 22:01:53,761 - run - INFO - handle with user auth,data: {'action_type': 'auth', 'username': 'hqs', 'password': 'hqs'}
+2018-05-05 22:01:53,761 - run - INFO - hqs needs to pass authentication
+2018-05-05 22:01:53,762 - run - INFO - hqs passed authentication
+2018-05-05 22:01:53,762 - run - INFO - hqs Passed authentication!
+2018-05-05 22:01:53,762 - run - INFO - pack data send to ('127.0.0.1', 54895)
+2018-05-05 22:01:55,280 - run - INFO - pack data send to ('127.0.0.1', 54895)
+2018-05-05 22:01:55,280 - run - INFO - ls command result: b'ls: /Users/hqs/PycharmProjects/pyFTP_Thread/server/home/hqs: No such file or directory\n'
+2018-05-05 22:02:02,218 - run - INFO - pack data send to ('127.0.0.1', 54895)
+2018-05-05 22:02:02,218 - run - INFO - ls command result: b'ls: /Users/hqs/PycharmProjects/pyFTP_Thread/server/home/hqs: No such file or directory\n'
+2018-05-05 22:02:12,010 - run - INFO - pack data send to ('127.0.0.1', 54895)
+2018-05-05 22:02:12,010 - run - INFO - ls command result: b'ls: /Users/hqs/PycharmProjects/pyFTP_Thread/server/home/hqs: No such file or directory\n'
+2018-05-05 22:02:14,725 - run - INFO - pack data send to ('127.0.0.1', 54895)
+2018-05-05 22:02:14,726 - run - INFO - ls command result: b'ls: /Users/hqs/PycharmProjects/pyFTP_Thread/server/home/hqs: No such file or directory\n'
+2018-05-05 22:05:55,717 - run - ERROR - connection ('127.0.0.1', 54895) is lost....
+2018-05-05 22:05:55,718 - run - ERROR - connection ('127.0.0.1', 54895) is lost....
+2018-05-05 22:06:07,148 - run - INFO - ['alex', 'egon', 'hqs', 'zuse']
+2018-05-05 22:06:07,149 - run - INFO - starting FTP server on 127.0.0.1:9999
+2018-05-05 22:06:11,377 - run - INFO - got a new connection from ('127.0.0.1', 55274)
+2018-05-05 22:06:15,188 - run - INFO - handle with user auth,data: {'action_type': 'auth', 'username': 'alex', 'password': 'alex'}
+2018-05-05 22:06:15,188 - run - INFO - alex needs to pass authentication
+2018-05-05 22:06:15,188 - run - INFO - alex passed authentication
+2018-05-05 22:06:15,188 - run - INFO - alex Passed authentication!
+2018-05-05 22:06:15,189 - run - INFO - pack data send to ('127.0.0.1', 55274)
+2018-05-05 22:06:16,186 - run - INFO - pack data send to ('127.0.0.1', 55274)
+2018-05-05 22:06:16,187 - run - INFO - ls command result: b'__init__.py\ntest\n'
+2018-05-05 22:06:21,455 - run - INFO - got a new connection from ('127.0.0.1', 55291)
+2018-05-05 22:06:26,843 - run - INFO - handle with user auth,data: {'action_type': 'auth', 'username': 'hqs', 'password': 'hqs'}
+2018-05-05 22:06:26,844 - run - INFO - hqs needs to pass authentication
+2018-05-05 22:06:26,844 - run - INFO - hqs passed authentication
+2018-05-05 22:06:26,845 - run - INFO - hqs Passed authentication!
+2018-05-05 22:06:26,845 - run - INFO - pack data send to ('127.0.0.1', 55291)
+2018-05-05 22:06:29,168 - run - INFO - pack data send to ('127.0.0.1', 55291)
+2018-05-05 22:06:29,168 - run - INFO - ls command result: b'ls: /Users/hqs/PycharmProjects/pyFTP_Thread/server/home/hqs: No such file or directory\n'
+2018-05-05 22:06:32,573 - run - INFO - pack data send to ('127.0.0.1', 55291)
+2018-05-05 22:06:32,573 - run - INFO - ls command result: b'ls: /Users/hqs/PycharmProjects/pyFTP_Thread/server/home/hqs: No such file or directory\n'
+2018-05-05 22:59:26,814 - run - INFO - ['alex', 'egon', 'hqs', 'zuse']
+2018-05-05 22:59:26,815 - run - INFO - starting FTP server on 127.0.0.1:9999
+2018-05-05 22:59:38,624 - run - INFO - got a new connection from ('127.0.0.1', 59403)
+2018-05-05 22:59:42,651 - run - INFO - handle with user auth,data: {'action_type': 'auth', 'username': 'alex', 'password': 'alex'}
+2018-05-05 22:59:42,651 - run - INFO - alex needs to pass authentication
+2018-05-05 22:59:42,651 - run - INFO - alex passed authentication
+2018-05-05 22:59:42,652 - run - INFO - alex Passed authentication!
+2018-05-05 23:01:45,035 - run - INFO - ['alex', 'egon', 'hqs', 'zuse']
+2018-05-05 23:01:45,035 - run - INFO - starting FTP server on 127.0.0.1:9999
+2018-05-05 23:01:51,075 - run - INFO - got a new connection from ('127.0.0.1', 59516)
+2018-05-05 23:01:54,223 - run - INFO - handle with user auth,data: {'action_type': 'auth', 'username': 'alex', 'password': 'alex'}
+2018-05-05 23:01:54,224 - run - INFO - alex needs to pass authentication
+2018-05-05 23:01:54,224 - run - INFO - alex passed authentication
+2018-05-05 23:01:54,224 - run - INFO - alex Passed authentication!
+2018-05-05 23:01:54,224 - run - INFO - pack data send to ('127.0.0.1', 59516)
+2018-05-05 23:03:06,791 - run - INFO - ['alex', 'egon', 'hqs', 'zuse']
+2018-05-05 23:03:06,792 - run - INFO - starting FTP server on 127.0.0.1:9999
+2018-05-05 23:03:13,060 - run - INFO - got a new connection from ('127.0.0.1', 59589)
+2018-05-05 23:03:16,619 - run - INFO - handle with user auth,data: {'action_type': 'auth', 'username': 'alex', 'password': 'alex'}
+2018-05-05 23:03:16,619 - run - INFO - alex needs to pass authentication
+2018-05-05 23:03:16,619 - run - INFO - alex passed authentication
+2018-05-05 23:03:16,620 - run - INFO - alex Passed authentication!
+2018-05-05 23:03:16,620 - run - INFO - pack data send to ('127.0.0.1', 59589)
+2018-05-05 23:03:17,947 - run - INFO - pack data send to ('127.0.0.1', 59589)
+2018-05-05 23:03:17,947 - run - INFO - ls command result: b'__init__.py\ntest\n'
+2018-05-05 23:03:22,580 - run - INFO - got a new connection from ('127.0.0.1', 59599)
+2018-05-05 23:03:26,290 - run - INFO - handle with user auth,data: {'action_type': 'auth', 'username': 'alex', 'password': 'al\x08\x08'}
+2018-05-05 23:03:26,291 - run - INFO - alex needs to pass authentication
+2018-05-05 23:03:26,291 - run - ERROR - alex 有此用户，密码不正确
+2018-05-05 23:03:26,293 - run - ERROR - alex auth failed
+2018-05-05 23:03:26,293 - run - INFO - pack data send to ('127.0.0.1', 59599)
+2018-05-05 23:03:29,518 - run - INFO - handle with user auth,data: {'action_type': 'auth', 'username': 'hqs', 'password': 'hqs'}
+2018-05-05 23:03:29,518 - run - INFO - hqs needs to pass authentication
+2018-05-05 23:03:29,518 - run - INFO - hqs passed authentication
+2018-05-05 23:03:29,518 - run - INFO - hqs Passed authentication!
+2018-05-05 23:03:29,519 - run - INFO - pack data send to ('127.0.0.1', 59599)
+2018-05-05 23:03:30,669 - run - INFO - pack data send to ('127.0.0.1', 59599)
+2018-05-05 23:03:30,669 - run - INFO - ls command result: b'ls: /Users/hqs/PycharmProjects/pyFTP_Thread/server/home/hqs: No such file or directory\n'
+2018-05-05 23:03:33,481 - run - INFO - pack data send to ('127.0.0.1', 59589)
+2018-05-05 23:03:33,481 - run - INFO - ls command result: b'ls: /Users/hqs/PycharmProjects/pyFTP_Thread/server/home/hqs: No such file or directory\n'
